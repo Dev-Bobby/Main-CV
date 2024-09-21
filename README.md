@@ -32,7 +32,7 @@
 
     <div class="div1">
 
-      <img class="cloud1" src="img/cloud.png" alt="cloud">
+      <img class="cloud1" src="cloud.png" alt="cloud">
 
       <h1>I'm Chukwuka.</h1>
 
